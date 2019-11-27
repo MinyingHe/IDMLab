@@ -1,0 +1,46 @@
+.footer{
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-color: #313639;
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+}
+.column {
+    
+    float: left;
+    width: 33.33%;
+    padding-bottom: 5%;
+    font-weight: bold;
+    
+
+  }
+  
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  .links{
+      list-style-type: none;
+      padding:0;
+      
+     
+
+  }
+  li{
+    
+      text-align: center;
+  }
+  a{
+    text-decoration: none;
+    text-align: left;
+    font-weight: normal;
+    
+  }
+  a:visited{
+    color:white;
+  }
+  
